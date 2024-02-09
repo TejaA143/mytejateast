@@ -1,0 +1,13 @@
+*.iml
+.idea
+target
+
+# Mac
+.DS_Store
+
+# VS Code / Metals
+.bsp
+.metals/
+.vscode/
+.bloop/
+metals.sbt
